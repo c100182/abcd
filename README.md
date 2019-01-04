@@ -4,7 +4,7 @@
 
 ## Week2
 * [table.html]()
-* [207410514課表.html]()
+* [207410514課表.html](https://gitcdn.link/repo/c100182/abcd/master/w02/207410514%E8%AA%B2%E8%A1%A8.html)
 
 ## Week3
 * [div.html]()
