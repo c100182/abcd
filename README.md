@@ -1,6 +1,6 @@
 # abcd
 ## Week1
-* [intro.html](https://raw.githubusercontent.com/c100182/abcd/master/w01/intro.html)
+* [intro.html]()
 
 ## Week2
 * [table.html]()
