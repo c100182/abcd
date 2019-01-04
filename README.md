@@ -26,5 +26,5 @@
 
 ## Week8
 * [pattern.html](https://gitcdn.link/repo/c100182/abcd/master/w08/index.html)
-* [text1.html](https://raw.githubusercontent.com/c100182/abcd/master/w08/text1.html)
+* [text1.html](https://gitcdn.link/repo/c100182/abcd/master/w08/text1.html)
 
